@@ -50,8 +50,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonyemman&show_icons=true&locale=en" alt="sonyemman" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonyemman&" alt="sonyemman" /></p>
 
