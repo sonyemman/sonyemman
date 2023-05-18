@@ -51,6 +51,11 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 <h2 align="center">GitHub Stats</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonyemman&show_icons=true&locale=en" alt="sonyemman" /></p> 
+
+<p align="center" >  
+  <a href="https://github.com/sonyemman/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=sonyemman&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
 
 
